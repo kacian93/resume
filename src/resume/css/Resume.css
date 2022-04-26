@@ -1,0 +1,38 @@
+.content-history{
+    margin-left: 30px;
+}
+.content-name{
+    display: flex;
+    align-items:end;
+    height: 10vh;
+    font-size: 30px;
+
+}
+Divider{
+    color:white;
+}
+.content-work{
+    height: 40vh;
+}
+.content-education{
+    height: 40vh;
+}
+.content-header{
+    font-size: 20px;
+    font-weight: 800;
+}
+.info{
+    font-size: 12px;
+}
+.school-history{
+
+}
+.school,.company{
+    display: flex;
+    justify-content:left;
+    align-items: baseline;
+}
+
+.school>h5, .company > h5{
+    margin-left: 10px;
+}
